@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Package Control",
+		"PackageResourceViewer",
+		"Themr",
+		"Thinkphp"
+	]
+}
